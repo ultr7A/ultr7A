@@ -1,6 +1,6 @@
 + Hi, I’m @ultr7A 🌙
 + 📢 all about loud buzzing sounds, and simple composable elements.
-+ 🔭 I'm currently learning to focus.
++ 🔭 I'm currently learning the empirically valuable aspects of the human experience.
 + 🐱 Additionally, learning to "react-three-fiber", to "bash", to "math" and to "glsl".           
 + 💞 Happy to collaborate on anything that makes loud buzzing sounds or uses simple composable elements.
  
